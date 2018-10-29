@@ -26,10 +26,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="requirement.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="requirement.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirement.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-2258" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="abc.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/abc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -46,6 +55,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/exercise.py" />
+        <option value="$PROJECT_DIR$/abc.py" />
       </list>
     </option>
   </component>
@@ -218,6 +228,13 @@
     <entry file="file://$PROJECT_DIR$/requirement.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2258" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
       </provider>
     </entry>
   </component>
