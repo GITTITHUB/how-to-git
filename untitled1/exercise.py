@@ -44,3 +44,4 @@ def jianfa(a,b):
     return a-b
 calculate(2,5,sum)
 calculate(2,5,jianfa)
+print('123')
